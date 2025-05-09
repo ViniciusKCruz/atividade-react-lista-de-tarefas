@@ -24,6 +24,6 @@ Este é um projeto simples de **Lista de Tarefas** criado com **React.js**, onde
 ## 📦 Como executar
 
 1. **Acesse o link:**
-   ```bash
-   [Veja o projeto online](https://lista-de-tarefas-xi-swart.vercel.app/)
+   [https://lista-de-tarefas-xi-swart.vercel.app/](https://lista-de-tarefas-xi-swart.vercel.app/)
+
 
