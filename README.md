@@ -14,13 +14,6 @@ Este é um projeto simples de **Lista de Tarefas** criado com **React.js**, onde
 
 ---
 
-## 🖼️ Captura de Tela
-
-> Imagem de fundo:  
-> ![Imagem de fundo](https://static-cse.canva.com/blob/610432/productivityfeaturedimage.1b0df550.avif)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [React.js](https://reactjs.org/)
@@ -32,4 +25,4 @@ Este é um projeto simples de **Lista de Tarefas** criado com **React.js**, onde
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/ViniciusKCruz/atividade-react-lista-de-tarefas?authuser=0)
+   git clone [[https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/ViniciusKCruz/atividade-react-lista-de-tarefas?authuser=0)](https://lista-de-tarefas-xi-swart.vercel.app/)
