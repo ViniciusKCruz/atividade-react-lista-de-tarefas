@@ -23,6 +23,7 @@ Este é um projeto simples de **Lista de Tarefas** criado com **React.js**, onde
 
 ## 📦 Como executar
 
-1. **Clone o repositório:**
+1. **Acesse o link:**
    ```bash
-   git clone [[https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/ViniciusKCruz/atividade-react-lista-de-tarefas?authuser=0)](https://lista-de-tarefas-xi-swart.vercel.app/)
+   [Veja o projeto online](https://lista-de-tarefas-xi-swart.vercel.app/)
+
